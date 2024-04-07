@@ -9,7 +9,7 @@ CORS(app)
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'fsociety00.dat',
+    'password': 'password',
     'database': 'ultra',
 }
 
